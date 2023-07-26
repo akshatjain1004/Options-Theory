@@ -6,6 +6,7 @@ A project exploring various concepts related to European and American Options
 ### European Options and American Options
 <img width="817" alt="image" src="https://github.com/akshatjain1004/Options-Theory/assets/86458423/85377e80-fdf7-4983-b23a-ca870e92ba2b">
 <img width="806" alt="image" src="https://github.com/akshatjain1004/Options-Theory/assets/86458423/cf5f4ef4-2b60-4321-889e-7b47bfcf4b61">
+
 Compaing the two Options:
 <img width="817" alt="image" src="https://github.com/akshatjain1004/Options-Theory/assets/86458423/cde7c38a-48d8-46d8-bd28-68392d658a5e">
 
